@@ -6,6 +6,7 @@
   * React native
     * Redux
     * Material design
+    
 ## User stories:
   * Mogę dodać nowego ucznia
     * imię i nazwisko
